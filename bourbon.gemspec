@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.add_development_dependency "rake", "~> 11.1.2"
   s.add_development_dependency "rspec", "~> 3.4.0"
   s.add_development_dependency "scss_lint", "0.48.0"
-  s.add_runtime_dependency "sassc", "~> 1.10.1"
+  s.add_runtime_dependency "sassc", "~> 1.9"
   s.add_runtime_dependency "thor", "~> 0.19.1"
   s.authors = [
     "Christian Reuter",
